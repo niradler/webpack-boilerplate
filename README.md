@@ -1,5 +1,8 @@
-# Webpack boilerplate
-An ideal project setup for any project using Webpack
+# Webpack Boilerplate
+Webpack boilerplate is a common way to configure webpack for general porpose project.
+- es2015+
+- hot reload
+- and many more
 
 # Setup
 - clone the repo
